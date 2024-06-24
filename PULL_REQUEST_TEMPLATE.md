@@ -6,6 +6,7 @@
 - [ ] Bug fix (fixes an issue)
 - [ ] New feature (adds functionality)
 - [ ] Refactor (changes code structure with same or similar functionality)
+- [ ] Libs update (Libs update with code change or with minor code change to get new version working)
 
 ## Checklists
 
@@ -13,11 +14,11 @@
 
 - [ ] Application changes have been tested thoroughly
 - [ ] Automated tests covering modified code pass
+- [ ] The README file is updated if needed
 
 ### Security
 
 - [ ] Security impact of change has been considered
-- [ ] Code follows company security practices and guidelines
 - [ ] New endpoints that should be protected have been registered in Auth services
 
 ### Code review 
