@@ -1,28 +1,20 @@
 ## Change Summary
 
-> Description here
+> Link to Jira ticket if applicable
+> Describe the changes (even if there is a description in Jira)
+> Identify backwards incompatible changes; link to tickets/PRs that must merge or deploy first
+> Call out known issues, high risk areas, or future work to be done
+> Include guidance for reviewers if relevant
 
-## Type of change
-- [ ] Bug fix (fixes an issue)
-- [ ] New feature (adds functionality)
-- [ ] Refactor (changes code structure with same or similar functionality)
-- [ ] Libs update (Libs update with code change or with minor code change to get new version working)
+## How I know it works
 
-## Checklists
+- [ ] I reviewed the code myself before requesting another engineer's review
 
-### Development
+> List the steps you took to test the change manually
+> Characterize the automatic test coverage
+> Provide screenshots or video if applicable
 
-- [ ] Application changes have been tested thoroughly
-- [ ] Automated tests covering modified code pass
-- [ ] The README file is updated if needed
+## Security
 
-### Security
-
-- [ ] Security impact of change has been considered
-- [ ] New endpoints that should be protected have been registered in Auth services
-
-### Code review 
-
-- [ ] Pull request has a descriptive title and context useful to a reviewer. Screenshots or screencasts are attached as necessary
-- [ ] Changes have been reviewed by at least one other contributor
-- [ ] Pull request linked to task tracker where applicable
+> Describe the security impact of this change (or "no impact")
+> List or link to request to protect new private endpoints in Auth services, if applicable
