@@ -2,7 +2,8 @@
 
 > Link to Jira ticket if applicable
 > Describe the changes (even if there is a description in Jira)
-> Identify backwards incompatible changes; link to tickets/PRs that must merge or deploy first
+> Clarify the thinking behind significant design decisions, including new dependencies and secrets
+> Identify changes that are backwards incompatible or depend on other work; link to tickets/PRs that must merge or deploy first
 > Call out known issues, high risk areas, or future work to be done
 > Include guidance for reviewers if relevant
 
@@ -13,6 +14,7 @@
 > List the steps you took to test the change manually
 > Characterize the automatic test coverage
 > Provide screenshots or video if applicable
+> Link to Figma, specs, etc. if it would help to verify behavior
 
 ## Security
 
