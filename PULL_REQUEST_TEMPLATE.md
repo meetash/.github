@@ -25,4 +25,4 @@ Estimated review effort:
 
 ## Database
 
-- [ ] This PR does not include database changes, OR I've looped in the Data team on the database changes it includes
+- [ ] This PR does not include any non-additive database changes, OR I've looped in the Data team on the database changes it includes
