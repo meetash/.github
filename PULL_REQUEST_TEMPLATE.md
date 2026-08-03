@@ -22,3 +22,7 @@ Estimated review effort:
 
 > Describe the security impact of this change (or "no impact")
 > List or link to request to protect new private endpoints in Auth services, if applicable
+
+## Database
+
+- [ ] This PR does not include any non-additive database changes, OR I've looped in the Data team on the database changes it includes
